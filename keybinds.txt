@@ -1,0 +1,4 @@
+# Ethaniko Keybinder Configuration
+# Format: KEY|MESSAGE|DELAY
+# Do not edit while the app is running
+Numpad3|hello|0
